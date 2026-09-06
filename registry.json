@@ -1896,5 +1896,11 @@
     ],
     "name": "StarkBet21",
     "one_liner": "private blackjack on Starknet"
+  },
+  {
+    "repo_url": "https://github.com/Enoch208/vow",
+    "telegram": [
+      "dreyethh"
+    ]
   }
 ]
