@@ -1877,5 +1877,16 @@
     ],
     "name": "VeruShield Connect",
     "one_liner": "Encrypted Messaging on STRK20"
+  },
+  {
+    "repo_url": "https://github.com/venture23-aleo/veru-shield-connect",
+    "telegram": [
+      "sdpisreddevil",
+      "sndpbhujl",
+      "kandelshailesh",
+      "baralprabin"
+    ],
+    "name": "VeruShield Connect",
+    "one_liner": "Encrypted Messaging on STRK20"
   }
 ]
