@@ -638,6 +638,211 @@
     "star_evidence": "Cairo in the repository"
   },
   {
+    "slug": "vinss",
+    "name": "VINSS",
+    "one_liner": "Agentic private deal room on Starknet for encrypted negotiation, offers, messaging, and private escrow settlement powered by STRK20.",
+    "category": "Other",
+    "repo_url": "https://github.com/DXJLabs/vinss",
+    "demo_url": "https://vinss-nu.vercel.app/",
+    "demo_video": "https://vt.tiktok.com/ZSVoBr8nN/",
+    "x_handle": "",
+    "inspired_by": "IDEA-01",
+    "affiliation": "",
+    "starred": false,
+    "star_reason": "The project provides a unique encrypted negotiation environment with custom Cairo contracts.",
+    "contracts": [
+      {
+        "address": "0x0319dc70e75d8bfe0f86f09bb32847791cf1630eb6c2fa6575b8e98f1c28f505",
+        "network": "unknown"
+      },
+      {
+        "address": "0x00b7fcc80a6d07f2c73dea1006fc36f893a3a4d9805a26f99e22fc7e6fa0b584",
+        "network": "unknown"
+      },
+      {
+        "address": "0x0098539b85ad2c8300538bca5ada276caf57527e7e1b709c82fb9a81a01fcc41",
+        "network": "unknown"
+      },
+      {
+        "address": "0x0793d2b7844f104653f43690c23c2e11d87b854da5e86cb2930ede1fac05c21f",
+        "network": "unknown"
+      },
+      {
+        "address": "0x040fbf221167da09ffb325a990a0347a8f178a5a7fb214680e3ee97af9156054",
+        "network": "unknown"
+      },
+      {
+        "address": "0x047cf4ffb45ca246f13400fa3bd4c3b73e51b8b4e1f2c5b9d4d9be55ee565cea",
+        "network": "unknown"
+      },
+      {
+        "address": "0x0378f6cb263afdc0f0fd81101065baca49237afb2fcc581b1793390c50133a77",
+        "network": "unknown"
+      }
+    ],
+    "transactions": [
+      {
+        "hash": "0x3d75d91a06461967bcf6196bbf198bf1487546a7493848d1c278b1762fbecf4",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x612909e7fe25d16088af6de65455ac33af38a5b06ad9ac743e7132d5b2a466b",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x29998030283a899e5c39d28cbc98b79cc16977355a1d2ebd01ddd83ff2429f9",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x30975369470d241f4a1e3177f0e05fcc4d35bba86a1d75f576048c0d7e234e6",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x3325f3b506caed809916d758b5156fdc5e71032fe39dd20bda2dc060d367058",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x4d148c7c01b07997ac5526917d15c62edad879d704f9acaa394b6fa780aea83",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x9562ac1e928148776074adca209fe17adea0dec4aae714dd25e88066dabdcb",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x7829649d74c2638634f7d766bab809f011d31e0f2318d540456a09f026a2a58",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x318cf62796e3a4b87f19835dfbae60528c7313868eaebaed48d574f701c94b1",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x219bdeb46a96d6cbed08845180f3bbe3b8b5b47cb7e212d4ce0ac706bf64278",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      }
+    ],
+    "verified_txs": 0,
+    "requirements": {
+      "demo": true,
+      "video": true,
+      "mainnet": false
+    },
+    "status": "building",
+    "pushed_at": "2026-09-07T20:25:40Z",
+    "stars": 0,
+    "builders": [
+      {
+        "login": "ntfound-dev",
+        "name": "ntfound-dev",
+        "avatar_url": "https://avatars.githubusercontent.com/u/137505064?v=4"
+      },
+      {
+        "login": "Riyuu-Fin",
+        "name": "Riyuu-Fin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/308338159?v=4"
+      },
+      {
+        "login": "TheHotRoad2000",
+        "name": "TheHotRoad2000",
+        "avatar_url": "https://avatars.githubusercontent.com/u/300054842?v=4"
+      },
+      {
+        "login": "DXJLabs",
+        "name": "DXJ Labs",
+        "avatar_url": "https://avatars.githubusercontent.com/u/296154937?v=4"
+      }
+    ],
+    "agents": [],
+    "active_days": [
+      "2026-08-15",
+      "2026-08-16",
+      "2026-08-17",
+      "2026-08-18",
+      "2026-08-19",
+      "2026-08-20",
+      "2026-08-21",
+      "2026-08-22",
+      "2026-08-23",
+      "2026-08-24",
+      "2026-08-25",
+      "2026-08-26",
+      "2026-08-27",
+      "2026-08-28",
+      "2026-08-29",
+      "2026-08-30",
+      "2026-08-31",
+      "2026-09-01",
+      "2026-09-02",
+      "2026-09-03",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07"
+    ],
+    "head_sha": "7679bc274e6f884e18b9854d1042088c41aad600",
+    "readme_hash": "c0b05f3e2e5c05ec",
+    "desc_v6": true,
+    "summary": "A private deal room for encrypted negotiations and transactions.",
+    "description_long": "VINSS is a shielded Deal Room for two-party crypto-native transactions on Starknet. It integrates encrypted conversations, structured negotiations, escrow services, fulfillment, settlement, and verifiable evidence in a single lifecycle, allowing all stages of a deal to remain connected and private. Built with Cairo contracts, the application uses TypeScript for both frontend and backend, ensuring all deal-related actions are handled securely.",
+    "latest_push": "Aligned technical documentation with current project architecture and sources.",
+    "tooling": [
+      {
+        "label": "Cairo",
+        "live": false,
+        "stack": false
+      }
+    ],
+    "has_readme": true,
+    "additions": 1163,
+    "deletions": 3611,
+    "churn_pct": 10.8,
+    "sprint": {
+      "pushes": 260,
+      "additions": 35500,
+      "deletions": 2022,
+      "computed": 3
+    },
+    "assessment": {
+      "innovative": true,
+      "complex": true,
+      "why_innovative": "creates a private deal room for encrypted negotiations and offers, not typical in this domain.",
+      "why_complex": "includes multiple Cairo helper contracts for messaging, escrow, and requires event decryption via an indexer.",
+      "reason": "The project provides a unique encrypted negotiation environment with custom Cairo contracts.",
+      "facts_v2": true
+    },
+    "star_evidence": "7 contracts deployed, Cairo in the repository"
+  },
+  {
     "slug": "oxa-protocol",
     "name": "oxa-protocol",
     "one_liner": "Privacy-preserving, policy-controlled payments for autonomous agents on Starknet.",
@@ -1037,211 +1242,6 @@
     },
     "assessment": null,
     "star_evidence": "Cairo in the repository"
-  },
-  {
-    "slug": "vinss",
-    "name": "VINSS",
-    "one_liner": "Agentic private deal room on Starknet for encrypted negotiation, offers, messaging, and private escrow settlement powered by STRK20.",
-    "category": "Other",
-    "repo_url": "https://github.com/DXJLabs/vinss",
-    "demo_url": "https://vinss-nu.vercel.app/",
-    "demo_video": "https://vt.tiktok.com/ZSVoBr8nN/",
-    "x_handle": "",
-    "inspired_by": "IDEA-01",
-    "affiliation": "",
-    "starred": false,
-    "star_reason": "The project provides a unique encrypted negotiation environment with custom Cairo contracts.",
-    "contracts": [
-      {
-        "address": "0x0319dc70e75d8bfe0f86f09bb32847791cf1630eb6c2fa6575b8e98f1c28f505",
-        "network": "unknown"
-      },
-      {
-        "address": "0x00b7fcc80a6d07f2c73dea1006fc36f893a3a4d9805a26f99e22fc7e6fa0b584",
-        "network": "unknown"
-      },
-      {
-        "address": "0x0098539b85ad2c8300538bca5ada276caf57527e7e1b709c82fb9a81a01fcc41",
-        "network": "unknown"
-      },
-      {
-        "address": "0x0793d2b7844f104653f43690c23c2e11d87b854da5e86cb2930ede1fac05c21f",
-        "network": "unknown"
-      },
-      {
-        "address": "0x040fbf221167da09ffb325a990a0347a8f178a5a7fb214680e3ee97af9156054",
-        "network": "unknown"
-      },
-      {
-        "address": "0x047cf4ffb45ca246f13400fa3bd4c3b73e51b8b4e1f2c5b9d4d9be55ee565cea",
-        "network": "unknown"
-      },
-      {
-        "address": "0x0378f6cb263afdc0f0fd81101065baca49237afb2fcc581b1793390c50133a77",
-        "network": "unknown"
-      }
-    ],
-    "transactions": [
-      {
-        "hash": "0x3d75d91a06461967bcf6196bbf198bf1487546a7493848d1c278b1762fbecf4",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x612909e7fe25d16088af6de65455ac33af38a5b06ad9ac743e7132d5b2a466b",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x29998030283a899e5c39d28cbc98b79cc16977355a1d2ebd01ddd83ff2429f9",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x30975369470d241f4a1e3177f0e05fcc4d35bba86a1d75f576048c0d7e234e6",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x3325f3b506caed809916d758b5156fdc5e71032fe39dd20bda2dc060d367058",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x4d148c7c01b07997ac5526917d15c62edad879d704f9acaa394b6fa780aea83",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x9562ac1e928148776074adca209fe17adea0dec4aae714dd25e88066dabdcb",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x7829649d74c2638634f7d766bab809f011d31e0f2318d540456a09f026a2a58",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x318cf62796e3a4b87f19835dfbae60528c7313868eaebaed48d574f701c94b1",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x219bdeb46a96d6cbed08845180f3bbe3b8b5b47cb7e212d4ce0ac706bf64278",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      }
-    ],
-    "verified_txs": 0,
-    "requirements": {
-      "demo": true,
-      "video": true,
-      "mainnet": false
-    },
-    "status": "building",
-    "pushed_at": "2026-09-07T20:18:09Z",
-    "stars": 0,
-    "builders": [
-      {
-        "login": "ntfound-dev",
-        "name": "ntfound-dev",
-        "avatar_url": "https://avatars.githubusercontent.com/u/137505064?v=4"
-      },
-      {
-        "login": "Riyuu-Fin",
-        "name": "Riyuu-Fin",
-        "avatar_url": "https://avatars.githubusercontent.com/u/308338159?v=4"
-      },
-      {
-        "login": "TheHotRoad2000",
-        "name": "TheHotRoad2000",
-        "avatar_url": "https://avatars.githubusercontent.com/u/300054842?v=4"
-      },
-      {
-        "login": "DXJLabs",
-        "name": "DXJ Labs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/296154937?v=4"
-      }
-    ],
-    "agents": [],
-    "active_days": [
-      "2026-08-15",
-      "2026-08-16",
-      "2026-08-17",
-      "2026-08-18",
-      "2026-08-19",
-      "2026-08-20",
-      "2026-08-21",
-      "2026-08-22",
-      "2026-08-23",
-      "2026-08-24",
-      "2026-08-25",
-      "2026-08-26",
-      "2026-08-27",
-      "2026-08-28",
-      "2026-08-29",
-      "2026-08-30",
-      "2026-08-31",
-      "2026-09-01",
-      "2026-09-02",
-      "2026-09-03",
-      "2026-09-05",
-      "2026-09-06",
-      "2026-09-07"
-    ],
-    "head_sha": "7679bc274e6f884e18b9854d1042088c41aad600",
-    "readme_hash": "c0b05f3e2e5c05ec",
-    "desc_v6": true,
-    "churn_pct": 10.8,
-    "summary": "A private deal room for encrypted negotiations and transactions.",
-    "description_long": "VINSS is a shielded Deal Room for two-party crypto-native transactions on Starknet. It integrates encrypted conversations, structured negotiations, escrow services, fulfillment, settlement, and verifiable evidence in a single lifecycle, allowing all stages of a deal to remain connected and private. Built with Cairo contracts, the application uses TypeScript for both frontend and backend, ensuring all deal-related actions are handled securely.",
-    "latest_push": "Aligned technical documentation with current project architecture and sources.",
-    "tooling": [
-      {
-        "label": "Cairo",
-        "live": false,
-        "stack": false
-      }
-    ],
-    "has_readme": true,
-    "additions": 1163,
-    "deletions": 3611,
-    "sprint": {
-      "pushes": 260,
-      "additions": 35500,
-      "deletions": 2022,
-      "computed": 3
-    },
-    "assessment": {
-      "innovative": true,
-      "complex": true,
-      "why_innovative": "creates a private deal room for encrypted negotiations and offers, not typical in this domain.",
-      "why_complex": "includes multiple Cairo helper contracts for messaging, escrow, and requires event decryption via an indexer.",
-      "reason": "The project provides a unique encrypted negotiation environment with custom Cairo contracts.",
-      "facts_v2": true
-    },
-    "star_evidence": "7 contracts deployed, Cairo in the repository"
   },
   {
     "slug": "supasafe",
@@ -1833,7 +1833,6 @@
     "head_sha": "5ea8cccf5c3ecb4fda502958841989c9a1305283",
     "readme_hash": "d5a47f6e60d4e999",
     "desc_v6": true,
-    "churn_pct": 2,
     "summary": "A self-custodial Starknet wallet with private balances and cross-chain capabilities.",
     "description_long": "Orrange is a self-custodial Starknet wallet that supports STRK20 private balances, Shadow Account execution, and cross-chain settlement via NEAR Intents. It consists of a unified wallet runtime, wallet core for custody and transactions, and a STRK20 SDK integration for managing privacy features. Key components include functionalities for private sending, swapping, and cross-chain deposits, with local key generation and privacy preserved through structured state management.",
     "latest_push": "Added cross-chain destination flows and polished transaction reviews.",
@@ -1882,6 +1881,7 @@
     "has_readme": true,
     "additions": 1864,
     "deletions": 1986,
+    "churn_pct": 2,
     "sprint": {
       "pushes": 213,
       "additions": 20181,
@@ -1975,7 +1975,6 @@
     "head_sha": "a9935f1d44719cea35e6e3b196682efe64f20951",
     "readme_hash": "105567f5b8e86f48",
     "desc_v6": true,
-    "churn_pct": 0.3,
     "summary": "A wallet-native signing guard for shield transactions using public STRK20 evidence.",
     "description_long": "Cutout checks proposed token and deposit amounts for public cohort cover before users sign shield transactions. It recommends an optimal amount change if allowed by the user, relying on deterministic offchain checks and public evidence without requiring a specific contract. The system consists of a Next.js signing client, a supervised indexer, and a SQLite read model, ensuring all sensitive processes happen client-side.",
     "latest_push": "Documented the deployment process and production QA for the project.",
@@ -2009,6 +2008,7 @@
     "has_readme": true,
     "additions": 29,
     "deletions": 16,
+    "churn_pct": 0.3,
     "sprint": {
       "pushes": 37,
       "additions": 20374,
@@ -2349,7 +2349,6 @@
     "head_sha": "088ba6c4f4f90bda94b9fca08ef9a7bfec58bd48",
     "readme_hash": "6fc16144aca36f4b",
     "desc_v6": true,
-    "churn_pct": 0.4,
     "summary": "Experimental infrastructure for private negotiation and settlement between AI agents.",
     "description_long": "Erebus enables AI agents to negotiate and settle payments privately, with features like encrypted channels, atomic transactions, and selective disclosure. It consists of agents opening Eleusis channels for exchange, performing negotiations, and settling payments in a shielded manner using Starknet's privacy pool. The infrastructure includes protocols for message and relationship privacy, and supports agent autonomy through Starknet's account abstraction.",
     "latest_push": "Published the demo video and added the 2026-09-07 pool transactions.",
@@ -2368,6 +2367,7 @@
     "has_readme": true,
     "additions": 161,
     "deletions": 17,
+    "churn_pct": 0.4,
     "sprint": {
       "pushes": 125,
       "additions": 14179,
@@ -3264,7 +3264,6 @@
     "head_sha": "4246af7f6de00f4b9562f92c8ef18a833a2cc4d4",
     "readme_hash": "b50c1cdd7212f9c9",
     "desc_v6": true,
-    "churn_pct": 0,
     "summary": "A tool for shielded capital allocation with detailed privacy features.",
     "description_long": "Cloakra allows organizations to conduct private payouts, grants, and splits while maintaining transparency on their overall deposits. It includes features like StealthSplit for splitting balances, GhostBounty for discreetly paying security researchers, StealthGrant for anonymous grant distributions, and a Treasury module for managing shielded balances and public transaction footprints. The application is built on Starknet and uses the STRK20 privacy pool, but does not involve any custom contracts.",
     "latest_push": "Updated README with project links and details.",
@@ -3272,6 +3271,7 @@
     "has_readme": true,
     "additions": 3,
     "deletions": 0,
+    "churn_pct": 0,
     "sprint": {
       "pushes": 103,
       "additions": 15168,
