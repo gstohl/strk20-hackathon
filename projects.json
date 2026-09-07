@@ -1,5 +1,148 @@
 [
   {
+    "slug": "ghostcall",
+    "name": "GhostCall",
+    "one_liner": "Trustless untraceable audio calls on Starknet — Tor onion transport, stealth addresses, STRK20 shielded payments. No TURN server. No trusted relay.",
+    "category": "Other",
+    "repo_url": "https://github.com/Philotheephilix/ghostcall",
+    "demo_url": "https://github.com/Philotheephilix/ghostcall",
+    "demo_video": "",
+    "x_handle": "",
+    "inspired_by": "",
+    "affiliation": "",
+    "starred": false,
+    "star_reason": "",
+    "contracts": [
+      {
+        "address": "0x474eafba0ef66427b796890bffc7d80fa9ec90359f649d85c1c54d50bd359fa",
+        "network": "unknown"
+      }
+    ],
+    "transactions": [
+      {
+        "hash": "0x2a4bc1ffa34e8c78c0e9ef18b080054b1313c9f57ff72e8d87eee1ec3518c70",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x49944b36c6eaf03382ac7dcaf822692ea23ff78b5df868b136e4fac98f98128",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x6c7230e3000ca9ccc0f5ef7b45cefe8832d9bd8b4ec89f5100c4340e0fbe165",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x6a9a862a52296b774f605a6c2e63ccc27a6594f560e95529a86ead30f24f000",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x19bf52df1ba0a00ec76f511d8700bb5671828c5870c8a2327ffea3a5a626e28",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      },
+      {
+        "hash": "0x1a1610e6174d980bc6bcb5956ff0b225f178b32a89449de50214a5388f5cdf1",
+        "ok": false,
+        "pool": false,
+        "mine": false,
+        "note": "not found on mainnet"
+      }
+    ],
+    "verified_txs": 0,
+    "requirements": {
+      "demo": true,
+      "video": false,
+      "mainnet": false
+    },
+    "status": "building",
+    "pushed_at": "2026-09-07T13:00:56Z",
+    "stars": 0,
+    "builders": [
+      {
+        "login": "Philotheephilix",
+        "name": "PhiloTheePhilix",
+        "avatar_url": "https://avatars.githubusercontent.com/u/110274378?v=4"
+      }
+    ],
+    "agents": [],
+    "active_days": [
+      "2026-08-27",
+      "2026-08-28",
+      "2026-08-29",
+      "2026-08-30",
+      "2026-08-31",
+      "2026-09-03",
+      "2026-09-04",
+      "2026-09-05",
+      "2026-09-06",
+      "2026-09-07"
+    ],
+    "head_sha": "155fe111427197c0f339a4a0b7bfd2e3a6e315e1",
+    "readme_hash": "8fd77a0ace7cf8ac",
+    "desc_v6": true,
+    "churn_pct": 0,
+    "summary": "Trustless, untraceable 1:1 audio calls with stealth identities.",
+    "description_long": "GhostCall is a desktop app for private audio calls where neither party's real IP is exposed and audio is encrypted end-to-end without any server in the decryption path. It integrates the StealthRegistry and CallLog contracts on Starknet for identity management and call record-keeping, respectively, while leveraging Tor for transport and the STRK20 privacy pool for shielded payments.",
+    "latest_push": "Created a CNAME file for custom domain configuration.",
+    "tooling": [
+      {
+        "label": "Privacy SDK",
+        "live": true,
+        "stack": true
+      },
+      {
+        "label": "Next.js",
+        "live": false,
+        "stack": false
+      },
+      {
+        "label": "React",
+        "live": false,
+        "stack": false
+      },
+      {
+        "label": "starknet.js",
+        "live": false,
+        "stack": false
+      },
+      {
+        "label": "TypeScript",
+        "live": false,
+        "stack": false
+      },
+      {
+        "label": "Cairo",
+        "live": false,
+        "stack": false
+      }
+    ],
+    "has_readme": true,
+    "additions": 1,
+    "deletions": 0,
+    "sprint": {
+      "pushes": 101,
+      "additions": 45146,
+      "deletions": 5785,
+      "computed": 3
+    },
+    "assessment": null,
+    "star_evidence": "1 contract deployed, Cairo in the repository"
+  },
+  {
     "slug": "veilap",
     "name": "VeilAP",
     "one_liner": "Private proof-backed settlement for sensitive work, with verifiable delivery and private STRK20 payments.",
@@ -54,9 +197,9 @@
     "readme_hash": "17f39c4e59ef83c3",
     "desc_v6": true,
     "churn_pct": 2.1,
-    "summary": "Build a private poker agent for competitive play in Starknet tournaments.",
-    "description_long": "Veil Arena is a competition environment for deterministic agents on Starknet, allowing players to create private poker agents while keeping their strategies confidential. Players can upload agent packages and compete in tournaments where each entry is verified under fixed rules, and match results are published without revealing submitted strategies. The system uses strict validation for agent submissions, private package storage, and integrates secure wallet sessions to ensure strategy protection and match integrity.",
-    "latest_push": "Fixed UI issues with competitions, funding layout, and private join links.",
+    "summary": "Build a private poker agent to compete in tournaments without revealing strategies.",
+    "description_long": "Veil Arena is a private competition for deterministic agents on Starknet, allowing users to create and compete with private poker strategies. Players can sign in, upload their agent packages, and enter competitions without disclosing their strategies, maintaining intellectual property confidentiality. The system includes a strict validation process for agent submissions, encrypted strategy storage, and ensures that only competition metrics are publicly shared, while private STRK20 transfers reward winning agents.",
+    "latest_push": "Fixed UI issues for competitions, funding layout, and private join links.",
     "tooling": [
       {
         "label": "get-starknet",
@@ -146,7 +289,7 @@
     "churn_pct": 5.7,
     "summary": "A multichain payment gateway with non-custodial, permissionless operations and stealth payment options.",
     "description_long": "Beanie is a non-custodial payment gateway for stablecoins, allowing merchants to process payments across multiple chains. Merchants register a single destination address for each chain, and all transactions are processed without Beanie holding custody of the funds. The project includes both EVM contracts for chains like Ethereum and Base, alongside Starknet contracts utilizing Cairo for privacy-focused features like stealth payment accounts and gasless execution through passkey authentication.",
-    "latest_push": "Tested authorized standard lane creation functionality.",
+    "latest_push": "Tested the authorized standard lane creation functionality.",
     "tooling": [
       {
         "label": "Cairo",
@@ -299,9 +442,9 @@
     "readme_hash": "3f483fa4fafe7849",
     "desc_v6": true,
     "churn_pct": 2.5,
-    "summary": "A proof-carrying private payroll system for humans and AI agents.",
-    "description_long": "PAYO is a non-custodial payroll workspace built on Starknet that enables private payments in STRK or USDC while maintaining proof of obligations met without revealing salaries. The system features encrypted pay agreements, payroll integrity proofs, and scoped proof packages for auditors and tax professionals. Key components include a payroll vault, an obligation engine, and compliance proof exports, all validated through zero-knowledge proofs.",
-    "latest_push": "Completed H1-H6 compliance and released the private exit feature.",
+    "summary": "A private payroll system for humans and AI, processing payments without revealing salaries.",
+    "description_long": "PAYO is a non-custodial payroll workspace on Starknet that combines encrypted pay agreements, payroll integrity proofs, and selective disclosure capabilities for managing payrolls for both humans and AI agents. It features a range of functionalities including private batch payroll processing, compliance proof exports, encrypted payroll vaults, and customizable income statements, all built around the proof-carrying payroll concept to ensure accountability while maintaining confidentiality.",
+    "latest_push": "Completed H1-H6 compliance and verified private exit evidence.",
     "tooling": [
       {
         "label": "get-starknet",
@@ -415,7 +558,7 @@
     "churn_pct": 0.1,
     "summary": "A shielded incentive layer for deepening STRK20's anonymity set.",
     "description_long": "Himitsu is an emissions protocol that pays depositors to enhance the anonymity set of the STRK20 privacy pool. It features standard-denomination gauges that provide incentives for deposits based on their amount, rewarding users for deeper anonymity. The claims for rewards are executed through shielded notes, maintaining the privacy of the payout's destination while ensuring that the allocation amounts remain public and linkable to depositing addresses.",
-    "latest_push": "Refreshed the depth data in the depth.json file.",
+    "latest_push": "Refreshed the depth data in depth.json.",
     "tooling": [
       {
         "label": "Cairo",
@@ -538,9 +681,9 @@
     "readme_hash": "251d06b8310110ce",
     "desc_v6": true,
     "churn_pct": 0.5,
-    "summary": "A programmable execution router for the STRK20 shielded pool.",
-    "description_long": "Jalin allows a single private transaction to execute a customizable, multi-step plan involving multiple tokens within one `privacy_invoke`. It operates as a general-purpose router for Starknet contracts, enabling actions such as swapping, staking, and lending without needing separate helper contracts for each interaction. The system processes a plan containing a list of steps and outputs, crediting back values directly into shielded notes.",
-    "latest_push": "Corrected the demo description to reflect two accurate protocols.",
+    "summary": "A programmable execution router for private multi-step transactions.",
+    "description_long": "Jalin lets one private transaction execute a multi-step, multi-token plan through a single `privacy_invoke`, integrating calls to various Starknet contracts. It serves as a unified helper for projects in the STRK20 shielded pool, allowing operations like swapping, staking, and lending without the need for multiple separate contracts. The router runs on a plan-based execution model, where each plan can specify targets, calldata, and required approvals, facilitating complex DeFi actions within a single call.",
+    "latest_push": "Corrected demo content to reflect two protocols accurately.",
     "tooling": [
       {
         "label": "starknet.js",
@@ -748,9 +891,9 @@
     "readme_hash": "bb885c4202d0e0a0",
     "desc_v6": true,
     "churn_pct": 4.4,
-    "summary": "Discover private STRK20 notes without sharing your viewing key.",
-    "description_long": "This software development kit (SDK) allows wallets on Starknet to download public pool state and discover STRK20 notes locally. Built in TypeScript, it includes both a browser and Node.js implementation, relying on a self-hostable Rust indexer for state publications. The SDK supports key management and ensures that discovery occurs without directly interacting with an external indexer.",
-    "latest_push": "Published SDK 0.1.1 and documented its release process.",
+    "summary": "Discover private STRK20 notes locally without sending your viewing key.",
+    "description_long": "This SDK allows wallets on Starknet to download public pool state and discover notes locally by checking against blockchain checkpoints. Built in TypeScript, it operates with a Rust engine that runs in a browser Worker or Node worker thread, and supports a self-hostable Rust indexer that publishes a shared feed. The SDK integrates with the official DiscoveryProviderInterface and includes features for subscribing to updates and managing local discovery securely.",
+    "latest_push": "Completed mainnet acceptance and prepared SDK 0.1.1 for release.",
     "tooling": [
       {
         "label": "Rust",
@@ -908,7 +1051,7 @@
     "churn_pct": 0.1,
     "summary": "A prediction market where your position remains sealed until settlement.",
     "description_long": "Users can choose a price range and stake on it without revealing their position until the market settles, preventing front running and copying. The system consists of a smart contract that only takes the range’s midpoint and its width, and two entry routes which maintain privacy differently: one through the STRK20 pool, which keeps both the band and the stake hidden, and another direct route where the stake is public. The contract manages settlements based on external price data while ensuring only the necessary information is published.",
-    "latest_push": "Recorded section G in the audit plan and clarified current status in the main plan.",
+    "latest_push": "Recorded section G in the audit plan and detailed current truths.",
     "tooling": [
       {
         "label": "starknet.js",
@@ -4717,148 +4860,6 @@
     },
     "assessment": null,
     "star_evidence": ""
-  },
-  {
-    "slug": "ghostcall",
-    "name": "GhostCall",
-    "one_liner": "Trustless untraceable audio calls on Starknet — Tor onion transport, stealth addresses, STRK20 shielded payments. No TURN server. No trusted relay.",
-    "category": "Other",
-    "repo_url": "https://github.com/Philotheephilix/ghostcall",
-    "demo_url": "https://github.com/Philotheephilix/ghostcall",
-    "demo_video": "",
-    "x_handle": "",
-    "inspired_by": "",
-    "affiliation": "",
-    "starred": false,
-    "star_reason": "",
-    "contracts": [
-      {
-        "address": "0x474eafba0ef66427b796890bffc7d80fa9ec90359f649d85c1c54d50bd359fa",
-        "network": "unknown"
-      }
-    ],
-    "transactions": [
-      {
-        "hash": "0x2a4bc1ffa34e8c78c0e9ef18b080054b1313c9f57ff72e8d87eee1ec3518c70",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x49944b36c6eaf03382ac7dcaf822692ea23ff78b5df868b136e4fac98f98128",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x6c7230e3000ca9ccc0f5ef7b45cefe8832d9bd8b4ec89f5100c4340e0fbe165",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x6a9a862a52296b774f605a6c2e63ccc27a6594f560e95529a86ead30f24f000",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x19bf52df1ba0a00ec76f511d8700bb5671828c5870c8a2327ffea3a5a626e28",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      },
-      {
-        "hash": "0x1a1610e6174d980bc6bcb5956ff0b225f178b32a89449de50214a5388f5cdf1",
-        "ok": false,
-        "pool": false,
-        "mine": false,
-        "note": "not found on mainnet"
-      }
-    ],
-    "verified_txs": 0,
-    "requirements": {
-      "demo": true,
-      "video": false,
-      "mainnet": false
-    },
-    "status": "building",
-    "pushed_at": "2026-09-06T18:20:58Z",
-    "stars": 0,
-    "builders": [
-      {
-        "login": "Philotheephilix",
-        "name": "Philotheephilix",
-        "avatar_url": "https://avatars.githubusercontent.com/u/110274378?v=4"
-      }
-    ],
-    "agents": [],
-    "active_days": [
-      "2026-08-27",
-      "2026-08-28",
-      "2026-08-29",
-      "2026-08-30",
-      "2026-08-31",
-      "2026-09-03",
-      "2026-09-04",
-      "2026-09-05",
-      "2026-09-06"
-    ],
-    "head_sha": "47df6057c55872616b07057b2c49f3a74a1b1594",
-    "readme_hash": "8fd77a0ace7cf8ac",
-    "desc_v6": true,
-    "summary": "Trustless, untraceable 1:1 audio calls with stealth identities.",
-    "description_long": "GhostCall is a desktop app for private audio calls where neither party's real IP is exposed and audio is encrypted end-to-end without any server in the decryption path. It integrates the StealthRegistry and CallLog contracts on Starknet for identity management and call record-keeping, respectively, while leveraging Tor for transport and the STRK20 privacy pool for shielded payments.",
-    "latest_push": "Rewrote strk20.json to match the required submission format.",
-    "tooling": [
-      {
-        "label": "Privacy SDK",
-        "live": true,
-        "stack": true
-      },
-      {
-        "label": "Next.js",
-        "live": false,
-        "stack": false
-      },
-      {
-        "label": "React",
-        "live": false,
-        "stack": false
-      },
-      {
-        "label": "starknet.js",
-        "live": false,
-        "stack": false
-      },
-      {
-        "label": "TypeScript",
-        "live": false,
-        "stack": false
-      },
-      {
-        "label": "Cairo",
-        "live": false,
-        "stack": false
-      }
-    ],
-    "has_readme": true,
-    "additions": 13,
-    "deletions": 34,
-    "churn_pct": 0.3,
-    "sprint": {
-      "pushes": 100,
-      "additions": 45145,
-      "deletions": 5785,
-      "computed": 3
-    },
-    "assessment": null,
-    "star_evidence": "1 contract deployed, Cairo in the repository"
   },
   {
     "slug": "game-shield",
@@ -15998,9 +15999,9 @@
     "readme_hash": "d257771eab327aca",
     "desc_v6": true,
     "churn_pct": 0.2,
-    "summary": "A dapp for measuring and visualizing Starknet privacy transactions.",
-    "description_long": "VeilOS shields, transfers, and unshields STRK through the STRK20 privacy pool while showing live data on privacy impacts sourced from Starkscan’s Privacy Pool API. It includes a Privacy Lens panel that displays real numbers and metrics about unspent notes and deposit/withdrawal activities, but does not provide selective disclosure features as those are not builder-callable. Built with Next.js, React, and TypeScript, it derives functionality from the STRK20 starter kit.",
-    "latest_push": "Added an example demo for third-party integration and fixed silent hang issues.",
+    "summary": "A dapp for measuring privacy in STRK20 transactions with real-time data insights.",
+    "description_long": "VeilOS shields, transfers, and unshields STRK through the STRK20 privacy pool, displaying public data about each action in real-time. It uses ZK-STARK proofs for encrypted notes, ensuring sender, receiver, and amount remain obscured inside the pool, while deposit and withdrawal amounts are publicly visible. Built with Next.js, React, and TypeScript, the application includes a Privacy Lens panel that shows relevant metrics sourced from Starkscan's Privacy Pool API.",
+    "latest_push": "Fixed silent hangs and gaps, added a third-party integration demo.",
     "tooling": [
       {
         "label": "get-starknet",
